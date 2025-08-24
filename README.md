@@ -1,9 +1,10 @@
-# Hi there 👋 I'm Sharanya K. R.  
+# Hi there 👋 I'm Sharanya K R 
 
 🎓 MCA aspirant  
 
 ## 🚀 About Me
-- 🌟 Passionate about technology and problem solving  
+- 🌟 Passionate about technology and problem solving
+- 📚 Pursuing *MCA* at NMAM Institute Of Technology
 - 📚 Studied *BCA* at Vivekananda College, Puttur  
 - 💡 Interested in *Web Development, Databases, and Software Engineering*  
 - 🎯 Goal: Build a career in *software development*  
