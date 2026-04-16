@@ -3,18 +3,19 @@
 🎓 MCA aspirant  
 
 ## 🚀 About Me
-- 🌟 Passionate about technology and problem solving
 - 📚 Pursuing *MCA* at NMAM Institute Of Technology
 - 📚 Studied *BCA* at Vivekananda College, Puttur  
 - 💡 Interested in *Web Development, Databases, and Software Engineering*  
 - 🎯 Goal: Build a career in *software development*  
 
 ## 🔧 Skills
-- *Languages*:  MySQL, HTML, CSS 
+- *Languages*: HTML, CSS, MySQL, React.js 
 - *Tools*: GitHub, VS Code, MS Office (Word, Excel, PowerPoint)  
 
 ## 📂 Projects  
 - 🔍 Fraud Audit – Suspect Prediction (Final year project in BCA)
+- 💻 Code Monk – Learn & Practice
+- 🍕 Food Fusion – Food Ordering Application
 
 ## 🌐 Connect with Me
 - 📧 Email: sharanyakr105@gmail.com  
