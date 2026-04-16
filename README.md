@@ -13,7 +13,7 @@
 - *Tools*: GitHub, VS Code, MS Office (Word, Excel, PowerPoint)  
 
 ## 📂 Projects  
-- 🔍 Fraud Audit – Suspect Prediction (Final year project in BCA)
+- 🔍 Fraud Audit – Suspect Prediction 
 - 💻 Code Monk – Learn & Practice
 - 🍕 Food Fusion – Food Ordering Application
 
