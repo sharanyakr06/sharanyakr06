@@ -10,14 +10,14 @@
 - 🎯 Goal: Build a career in *software development*  
 
 ## 🔧 Skills
-- *Languages*:  MySQL, PHP (basic), HTML, CSS ,Python
+- *Languages*:  MySQL, HTML, CSS 
 - *Tools*: GitHub, VS Code, MS Office (Word, Excel, PowerPoint)  
 
 ## 📂 Projects  
-- 🔍 Fraud Audit – Suspect Prediction (Final year project in BCA)  
+- 🔍 Fraud Audit – Suspect Prediction (Final year project in BCA)
 
 ## 🌐 Connect with Me
 - 📧 Email: sharanyakr105@gmail.com  
-- 💼 LinkedIn:https://www.linkedin.com/in/sharanya-k-r-087363313  
+- 💼 LinkedIn:https://www.linkedin.com/in/sharanyakr 
 
 ✨ Thanks for visiting my GitHub profile!
