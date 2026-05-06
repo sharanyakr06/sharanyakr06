@@ -9,13 +9,12 @@
 - 🎯 Goal: Build a career in *software development*  
 
 ## 🔧 Skills
-- *Languages*: HTML, CSS, MySQL, React.js 
+- *Languages*: HTML, CSS, MySQL, Java, C, React.js ,JavaScript
 - *Tools*: GitHub, VS Code, MS Office (Word, Excel, PowerPoint)  
 
 ## 📂 Projects  
 - 🔍 Fraud Audit – Suspect Prediction 
-- 💻 Code Monk – Learn & Practice
-- 🍕 Food Fusion – Food Ordering Application
+- 🍕 Food Fusion – Online Website 
 
 ## 🌐 Connect with Me
 - 📧 Email: sharanyakr105@gmail.com  
