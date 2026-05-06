@@ -13,8 +13,8 @@
 - *Tools*: GitHub, VS Code, MS Office (Word, Excel, PowerPoint)  
 
 ## 📂 Projects  
-- 🔍 Fraud Audit – Suspect Prediction 
-- 🍕 Food Fusion – Online Website 
+- 🍕 Food Fusion – Online Website
+  Live Demo : https://foodfusion-coral.vercel.app/
 
 ## 🌐 Connect with Me
 - 📧 Email: sharanyakr105@gmail.com  
