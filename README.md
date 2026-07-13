@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sharanya K R 
+# Hey there 👋 I'm Sharanya K R 
 
 🎓 MCA aspirant  
 
