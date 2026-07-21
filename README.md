@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 📚 Pursuing *MCA* at NMAM Institute Of Technology
 - 📚 Studied *BCA* at Vivekananda College, Puttur  
-- 💡 Interested in *Web Development, Databases, and Software Engineering*  
+- 💡 Interested in *Full Stack Development, Web Development, Databases, and Software Engineering*  
 - 🎯 Goal: Build a career in *software development*  
 
 ## 🔧 Skills
