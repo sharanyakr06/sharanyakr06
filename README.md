@@ -5,16 +5,18 @@
 ## 🚀 About Me
 - 📚 Pursuing *MCA* at NMAM Institute Of Technology
 - 📚 Studied *BCA* at Vivekananda College, Puttur  
-- 💡 Interested in *Full Stack Development, Web Development, Databases, and Software Engineering*  
+- 💡 Interested in *Full Stack / MERN Stack Development, Web Development, Databases, and Software Engineering*  
 - 🎯 Goal: Build a career in *software development*  
 
 ## 🔧 Skills
-- *Languages*: HTML, CSS, MySQL, Java, C, Python, React.js ,JavaScript, Node.js
-- *Tools*: Git, GitHub, VS Code, MS Office (Word, Excel, PowerPoint)  
+- *Tech*: HTML, CSS, MySQL, Java, C, Python, React.js ,JavaScript, Node.js, MongoDB
+- *Tools*: Git, GitHub, VS Code, MS Office (Word, Excel, PowerPoint), Firebase, Cloudinary
 
 ## 📂 Projects  
-- ♬ Music Loop Station Webstite
+- ♬ Music Loop Station Website
   Live Demo : https://music-loop-station.vercel.app/
+- 🏥 Smart HealthCare Platform
+  Live Demo: https://smart-healthcare-client.onrender.com
 - 🍕 Food Fusion – Online Website
   Live Demo : https://foodfusion-coral.vercel.app/
 
